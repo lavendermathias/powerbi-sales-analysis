@@ -50,6 +50,6 @@ Building interactive reports without advanced calculations
 
 Publishing and sharing reports using Power BI Service
 
- View (Live Dashboard)[https://app.powerbi.com/groups/me/dashboards/f1f1ff54-e463-4c99-82a0-1fe1972abdff?experience=power-bi]
+View [Live Dashboard](https://app.powerbi.com/groups/me/dashboards/f1f1ff54-e463-4c99-82a0-1fe1972abdff?experience=power-bi)
 
-View (Live Report)[https://app.powerbi.com/links/PvUWyzPwvU?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare]
+View [Live Report](https://app.powerbi.com/links/PvUWyzPwvU?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare)
